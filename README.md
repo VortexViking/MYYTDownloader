@@ -1,12 +1,15 @@
 Install MYYTDownload
 Run this code in command prompt
-pip install pytube
 
-download the the .py file
+Windows :: pip install pytube
+Mac ::pip3 install pytube
+
+W/M :: download the the .py file
 
 Run this code in Command prompt
 
-python youtube_downloader_gui.py
+Windows :: python youtube_downloader_gui.py
+Mac :: python2 youtube_downloader_gui.py
 
 Enter youtube URL
 
